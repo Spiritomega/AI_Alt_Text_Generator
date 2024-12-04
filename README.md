@@ -71,9 +71,5 @@ This will:
 - **Filename Generation**: Adjust `generate_filename` to modify how filenames are created from descriptions.
 - **Caption Generation**: Modify the `max_new_tokens` parameter in `generate` for shorter or longer captions.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
